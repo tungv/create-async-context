@@ -1,0 +1,25 @@
+{
+  "name": "create-async-context",
+  "version": "1.0.0",
+  "description": "create a contextual data provider within your node.js app",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tungv/create-async-context.git"
+  },
+  "keywords": [
+    "context",
+    "async",
+    "data",
+    "provider"
+  ],
+  "author": "Tung Vu <me@tungv.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tungv/create-async-context/issues"
+  },
+  "homepage": "https://github.com/tungv/create-async-context#readme"
+}
